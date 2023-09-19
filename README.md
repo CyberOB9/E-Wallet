@@ -17,3 +17,12 @@ E-Wallet is widely accepted in most places such as retail shops, hotels, travel 
 
 •	Authorized Transactions
 For payment processing, you need to enter a PIN to allow payment for devices. For devices with biometric authentication, fingerprint authentication is required to proceed with payments. Authorization provides security against online fraudulent purchases and identity theft.
+
+FEATURES OF E-WALLET
+•	Intuitive and smooth UI
+•	Seamless transaction, user registration, and login
+•	Quick Fund Transfer, check account balance, transaction history 
+•	Add accounts
+•	Real-time data synchronization 
+•	Privacy and security
+
